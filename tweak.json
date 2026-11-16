@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "name": "QuyLuongCCSize",
+  "id": "quyluongccsize",
+  "display_name": "quyluong - CC Size",
+  "class_prefix": "AxsQuyLuongCCSize",
+  "symbol_prefix": "axs_quyluongccsize",
+  "package": "com.quyluong.ccsize",
+  "bundle": "com.apple.springboard",
+  "sdk_version": "16.5",
+  "minimum_ios": "16.0",
+  "preferences": true,
+  "slider": false,
+  "github_actions": false
+}

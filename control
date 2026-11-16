@@ -1,0 +1,9 @@
+Package: com.quyluong.ccsize
+Name: quyluong - CC Size
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Per-module 1x1 to 2x2 Control Centre sizing for iOS 16-17.
+Maintainer: quyluong
+Author: quyluong
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0), firmware (<< 18.0)
